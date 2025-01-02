@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "🦚 Wadipository V0.1.2",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -24,23 +24,23 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Ga Maamli",
+        body: "Afacad Flux",
         code: "IBM Plex Mono",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
+          light: "#faf8f8", //#E4CBFF
+          lightgray: "#C8A2C8", //#e5e5e5
           gray: "#b8b8b8",
           darkgray: "#4e4e4e",
           dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          secondary: "#ff99cc", //#284b63
+          tertiary: "#ff9999", //#84a59d
+          highlight: "#99ffcc", //rgba(143, 159, 169, 0.15)
           textHighlight: "#fff23688",
         },
-        darkMode: {
+        darkMode: { //Come back to editing this later :3
           light: "#161618",
           lightgray: "#393639",
           gray: "#646464",

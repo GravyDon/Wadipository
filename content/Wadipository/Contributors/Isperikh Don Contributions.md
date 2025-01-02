@@ -1,0 +1,2 @@
+- Stoneworks fandom page for Wadiwaya (needs updating)
+	 https://stoneworksmc.fandom.com/wiki/Wadiwaya Haven't looked over this yet, but I will be assessing it on completeness considering the expanding size of the current body of lore.
